@@ -1,2 +1,2 @@
-# Deadlock-Avoider-OS-project
-Delivery company simulator with deadlock avoidance using Banker's Algorithm -Operating Systems Project
+# Deadlock-Avoider
+Delivery company simulator with deadlock avoidance using Banker's Algorithm
